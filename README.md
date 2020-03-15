@@ -1,2 +1,4 @@
 # rx-playground
-Android 
+
+An Android repo for my playing with RxJava.
+
